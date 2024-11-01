@@ -59,7 +59,7 @@ export const MainCard = memo(function MainCard() {
       <footer className="grid grid-flow-col items-center justify-center justify-items-center gap-2 px-4 text-sm text-gray-400 dark:text-dracula-dark-600 ">
         <Link
           className="underline"
-          href=""
+          href="https://github.com/Mumo01/mvp_resume_main.git"
           target="_blank"
           rel="noreferrer"
         >

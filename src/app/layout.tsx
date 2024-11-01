@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Victor Prince | MVP",
   description: DESCRIPTION,
   keywords: ["Victor Prince", "VictorPrince"],
-  metadataBase: process.env.VERCEL_ENV === "production" ? new URL("https://jzxhuang.com") : undefined,
+  metadataBase: process.env.VERCEL_ENV === "production" ? new URL("https://mvpresume.netlify.app/") : undefined,
   // OG image generated using @vercel/og in open-graph.tsx (just to experiment)
   // See https://nextjs.org/docs/app/api-reference/file-conventions/metadata/opengraph-image#image-files-jpg-png-gif
   openGraph: {

@@ -1,6 +1,6 @@
 {
-    "name": "mumoV.com",
-    "short_name": "mumoV.com",
+    "name": "https://mvpresume.netlify.app/",
+    "short_name": "https://mvpresume.netlify.app/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
