@@ -8,5 +8,4 @@ Built with:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Dracula Theme](https://draculatheme.com/)
 - [Vercel](https://vercel.com/)
-# mvp_resume
 # mvp_resume_main
