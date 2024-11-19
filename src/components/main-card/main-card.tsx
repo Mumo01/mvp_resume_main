@@ -49,7 +49,7 @@ export const MainCard = memo(function MainCard() {
           <Link href="https://github.com/Mumo01" target="_blank" rel="noreferrer">
             <h3>Github</h3>
           </Link>
-          <Link href="https://drive.google.com/file/d/1c_glZuobRpXXBKOZgrJRDf4UyueF0rq4/view?usp=sharing" target="_blank" rel="noreferrer">
+          <Link href="https://drive.google.com/file/d/1f_6xKfXL_yiasIE1hz1qIoPtMB2ltayj/view?usp=sharing" target="_blank" rel="noreferrer">
             <h3>Resume</h3>
           </Link>
         </div>
