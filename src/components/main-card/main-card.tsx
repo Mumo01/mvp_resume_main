@@ -24,7 +24,7 @@ export const MainCard = memo(function MainCard() {
         <div>
           <h1 className="text-4xl font-normal dark:text-dracula-green sm:text-5xl">Victor Prince</h1>
           <h2 className="pt-1 text-lg font-normal text-gray-500 dark:text-dracula-pink sm:text-xl">
-           Junior SOC Analyst | Software Engineer 
+           SOC Analyst | Software Engineer 
           </h2>
         </div>
 
