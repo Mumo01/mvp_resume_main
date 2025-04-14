@@ -35,12 +35,12 @@ export const MainCard = memo(function MainCard() {
             }
           </p>
           <p className="px-3 font-light">
-            {"I'm currently a Software Engineer at "}
-            <Link className="underline" href="https://ncc.la/" target="_blank" rel="noreferrer">
-              The New Computer Corporation
+            {"I'm currently a Security Engineer at "}
+            <Link className="underline" href="https://dte-tech.com/" target="_blank" rel="noreferrer">
+              Down To Earth Technologies
             </Link>
             {
-              ". I studied Computer Engineering at Strathmore University. In my free time, I play football, travel, eat lots of food and drink lots of Iced Tea :)"
+              ". I studied Computer Engineering at Strathmore University and have done a couple of Security Certifications. In my free time, I play football, travel and always eating :)"
             }
           </p>
         </div>
